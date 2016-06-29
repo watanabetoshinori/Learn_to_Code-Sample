@@ -12,6 +12,7 @@ import Learn_to_Code
    
    @ player
    * gem
+   . floor
 
    **Goal**: Use Swift commands to tell @ to move and collect a gem.
    Your character, @, loves to collect gems but can't do it alone.
@@ -21,7 +22,7 @@ import Learn_to_Code
    1. Look for gem in the puzzle world.
    2. Enter the correct combination of the `moveForward()` 
       and `collectGem()` commands.
-   3. Tap Ececute.
+   3. Tap Execute.
 */
 
 moveForward()
